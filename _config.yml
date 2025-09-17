@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Hello, World!"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -28,14 +28,14 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Undergraduate"
   location         : "Beijing, China"
-  employer         : "Beijing University of Posts and Telecommunications"
+  employer         : "[BUPT](https://www.bupt.edu.cn/)"
   uri              : "https://github.com/Heartune"
   email            : "xtc_heartune@bupt.edu.cn" 
 
   # Academic websites
   academia         : 
   arxiv            : 
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : 
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0001-8480-107X"
