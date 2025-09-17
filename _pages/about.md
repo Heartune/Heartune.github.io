@@ -13,6 +13,16 @@ redirect_from:
 
 我很幸运地得到了北京邮电大学[智能工程与自动化学院](https://iea.bupt.edu.cn/)[空间机器人教育部重点实验室](https://baike.baidu.com/item/%E7%A9%BA%E9%97%B4%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8A%80%E6%9C%AF%E6%95%99%E8%82%B2%E9%83%A8%E5%B7%A5%E7%A8%8B%E7%A0%94%E7%A9%B6%E4%B8%AD%E5%BF%83%EF%BC%88%E5%8C%97%E4%BA%AC%E9%82%AE%E7%94%B5%E5%A4%A7%E5%AD%A6%EF%BC%89/20793572)的[张时毓副教授](https://teacher.bupt.edu.cn/zhangshiyu/zh_CN/index.htm)在模块化机器人领域的指导，以及合肥工业大学[计算机与信息学院](https://ci.hfut.edu.cn/)的[刘浏副教授](https://hfut-liuliu.com/)在物体6D位姿估计领域的指导。
 
+具体地说，我目前正在研究的工作有：
+
+1. 《GAPartNet++: 基于深度学习的部件6D位姿估计框架》
+2. 《ROBO-Bench：面向机器人学科精通度的大型语言模型综合基准》
+3. 《CNLaw-Bench：面向细分法典评估的中国法律大模型基准构建研究》
+4. 《AutoRouter：面向特定领域应用的基于细粒度基准评估的模型选择》
+5. 《Ant-King Algorithm：面向动态任务的模块化机器人自组装与协同控制框架》
+
+如果您对我的工作感兴趣，有意愿提供指导或帮助，或希望与我共同开展相关研究，请通过[邮件](mailto:xtc_heartune@bupt.edu.cn)或[微信](../images/WeChat.jpg)联系我。
+
 您可以在[我的中文简历](../assets/简历29.png)中查看我保持更新的详细信息。
 
 ---
@@ -23,6 +33,16 @@ I serve as Deputy Director of the Science and Technology Innovation Practice Dep
 
 I am very fortunate to be advised by [Associate Professor Zhang Shiyu](https://teacher.bupt.edu.cn/zhangshiyu/zh_CN/index.htm) from the [Key Laboratory of Space Robotics Technology, Ministry of Education](https://baike.baidu.com/item/%E7%A9%BA%E9%97%B4%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8A%80%E6%9C%AF%E6%95%99%E8%82%B2%E9%83%A8%E5%B7%A5%E7%A8%8B%E7%A0%94%E7%A9%B6%E4%B8%AD%E5%BF%83%EF%BC%88%E5%8C%97%E4%BA%AC%E9%82%AE%E7%94%B5%E5%A4%A7%E5%AD%A6%EF%BC%89/20793572), [School of Intelligent Engineering and Automation](https://iea.bupt.edu.cn/), [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/) in the field of modular robotics, and by [Associate Professor Liu Liu](https://hfut-liuliu.com/) from the [School of Computer and Information](https://ci.hfut.edu.cn/), [Hefei University of Technology](https://www.hfut.edu.cn/) in the field of 6D object pose estimation.
 
-You can find my updated detailed information in [my CV in Chinese](../assets/简历29.png)
+Specifically, my current research work includes:
+
+1. 《GAPartNet++: A Deep Learning-based Framework for Part 6D Pose Estimation》
+2. 《ROBO-Bench: A Comprehensive Benchmark for Large Language Models in Robotics Proficiency》
+3. 《CNLaw-Bench: Constructing a Chinese Legal LLM Benchmark for Fine-grained Statute-level Evaluation》
+4. 《AutoRouter: Fine-grained Evaluation-Based Model Selection for Domain-Specific Applications with Case Study in Legal Domain》
+5. 《Ant-King Algorithm: A Self-assembly and Coordinated Control Framework for Modular Robots in Dynamic Tasks》
+
+If you are interested in my work, willing to provide guidance or assistance, or would like to collaborate with me on related research, please contact me via [email](mailto:xtc_heartune@bupt.edu.cn) or [WeChat](../images/WeChat.jpg).
+
+You can find my updated detailed information in [my CV in Chinese](../assets/简历29.png).
 
 [Email](mailto:xtc_heartune@bupt.edu.cn) / [Github](https://github.com/Heartune) / [Wechat](../images/WeChat.jpg)
