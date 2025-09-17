@@ -13,7 +13,7 @@ redirect_from:
 
 我很幸运地得到了北京邮电大学[智能工程与自动化学院](https://iea.bupt.edu.cn/)[空间机器人教育部重点实验室](https://baike.baidu.com/item/%E7%A9%BA%E9%97%B4%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8A%80%E6%9C%AF%E6%95%99%E8%82%B2%E9%83%A8%E5%B7%A5%E7%A8%8B%E7%A0%94%E7%A9%B6%E4%B8%AD%E5%BF%83%EF%BC%88%E5%8C%97%E4%BA%AC%E9%82%AE%E7%94%B5%E5%A4%A7%E5%AD%A6%EF%BC%89/20793572)的[张时毓副教授](https://teacher.bupt.edu.cn/zhangshiyu/zh_CN/index.htm)在模块化机器人领域的指导，以及合肥工业大学[计算机与信息学院](https://ci.hfut.edu.cn/)的[刘浏副教授](https://hfut-liuliu.com/)在物体6D位姿估计领域的指导。
 
-您可以在[我的简历](../assets/简历29.png)中查看我保持更新的详细信息。
+您可以在[我的中文简历](../assets/简历29.png)中查看我保持更新的详细信息。
 
 ---
 
@@ -23,6 +23,6 @@ I serve as Deputy Director of the Science and Technology Innovation Practice Dep
 
 I am very fortunate to be advised by [Associate Professor Zhang Shiyu](https://teacher.bupt.edu.cn/zhangshiyu/zh_CN/index.htm) from the [Key Laboratory of Space Robotics Technology, Ministry of Education](https://baike.baidu.com/item/%E7%A9%BA%E9%97%B4%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8A%80%E6%9C%AF%E6%95%99%E8%82%B2%E9%83%A8%E5%B7%A5%E7%A8%8B%E7%A0%94%E7%A9%B6%E4%B8%AD%E5%BF%83%EF%BC%88%E5%8C%97%E4%BA%AC%E9%82%AE%E7%94%B5%E5%A4%A7%E5%AD%A6%EF%BC%89/20793572), [School of Intelligent Engineering and Automation](https://iea.bupt.edu.cn/), [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/) in the field of modular robotics, and by [Associate Professor Liu Liu](https://hfut-liuliu.com/) from the [School of Computer and Information](https://ci.hfut.edu.cn/), [Hefei University of Technology](https://www.hfut.edu.cn/) in the field of 6D object pose estimation.
 
-You can find my updated detailed information in [my CV](../assets/简历29.png).
+You can find my updated detailed information in [my CV in Chinese](../assets/简历29.png)
 
 [Email](mailto:xtc_heartune@bupt.edu.cn) / [Github](https://github.com/Heartune) / [Wechat](../images/WeChat.jpg)
