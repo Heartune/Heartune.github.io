@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2025-10-01-ssvep-ugv-control
 excerpt: 'My first formal paper on SSVEP-based UGV control. **Oral Presentation** at ROBIO 2025 (Second Author).'
 date: 2025-10-01
-venue: 'IEEE International Conference on Robotics and Biomimetics (ROBIO) - **Oral Presentation**'
+venue: 'IEEE International Conference on Robotics and Biomimetics (ROBIO) - Oral Presentation'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 # paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 # bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
