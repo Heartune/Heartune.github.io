@@ -3,7 +3,7 @@ title: "Modular Integrated Optimization of SSVEP for UGV Control"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-10-01-ssvep-ugv-control
-excerpt: 'This paper presents a modular integrated optimization approach for Steady-State Visual Evoked Potential (SSVEP) based control of Unmanned Ground Vehicles (UGVs). **Oral Presentation** at ROBIO 2025.'
+excerpt: 'My first formal paper on SSVEP-based UGV control. **Oral Presentation** at ROBIO 2025 (Second Author).'
 date: 2025-10-01
 venue: 'IEEE International Conference on Robotics and Biomimetics (ROBIO) - **Oral Presentation**'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
@@ -14,7 +14,7 @@ citation: 'Zhang, G., et al. (2025). &quot;Modular Integrated Optimization of SS
 
 **🎤 Oral Presentation at ROBIO 2025**
 
-本文提出了一种面向无人地面车辆（UGV）控制的稳态视觉诱发电位（SSVEP）模块化集成优化方法。该研究被IEEE机器人与仿生学国际会议（ROBIO 2025）录用为**口头报告（Oral Presentation）**。
+2025年10月1日，我的第一篇正式论文《Modular Integrated Optimization of SSVEP for UGV Control》被IEEE机器人与仿生学国际会议（IEEE International Conference on Robotics and Biomimetics, ROBIO）录用为**口头报告（Oral Presentation）**（第二作者）。
 
-This paper presents a modular integrated optimization approach for Steady-State Visual Evoked Potential (SSVEP) based control of Unmanned Ground Vehicles (UGVs). The work was accepted as an **Oral Presentation** at the IEEE International Conference on Robotics and Biomimetics (ROBIO 2025).
+On October 1, 2025, my first formal paper *Modular Integrated Optimization of SSVEP for UGV Control* was accepted by the IEEE International Conference on Robotics and Biomimetics (ROBIO) as an **Oral Presentation** (second author).
 
