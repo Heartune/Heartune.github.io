@@ -25,7 +25,7 @@ redirect_from:
 
 如果您对我的工作感兴趣，有意愿提供指导或帮助，或希望与我共同开展相关研究，请通过[邮件](mailto:xtc_heartune@bupt.edu.cn)或[微信](../images/WeChat.jpg)联系我。
 
-您可以在[我的中文简历](../assets/简历29.png)中查看我保持更新的详细信息。
+您可以在[我的中文简历](../assets/简历32.png)中查看我保持更新的详细信息。
 
 ---
 
@@ -47,6 +47,6 @@ On October 1, 2025, my first formal paper *Modular Integrated Optimization of SS
 
 If you are interested in my work, willing to provide guidance or assistance, or would like to collaborate with me on related research, please contact me via [email](mailto:xtc_heartune@bupt.edu.cn) or [WeChat](../images/WeChat.jpg).
 
-You can find my updated detailed information in [my CV in Chinese](../assets/简历29.png).
+You can find my updated detailed information in [my CV in Chinese](../assets/简历32.png).
 
 [Email](mailto:xtc_heartune@bupt.edu.cn) / [Github](https://github.com/Heartune) / [Wechat](../images/WeChat.jpg)
