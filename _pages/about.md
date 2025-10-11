@@ -20,6 +20,8 @@ redirect_from:
 3. 《CNLaw-Bench：面向细分法典评估的中国法律大模型基准构建研究》
 4. 《AutoRouter：面向特定领域应用的基于细粒度基准评估的模型选择》
 5. 《Ant-King Algorithm：面向动态任务的模块化机器人自组装与协同控制框架》
+6. 《CyberSecLLM: 基于多智能体混合专家的大规模网络安全态势感知与结构化数据智能框架》
+7. 《面向3D点云处理的空间智能大模型融合及压缩技术研究》
 
 2025年10月1日，我的第一篇正式论文《Modular Integrated Optimization of SSVEP for UGV Control》被IEEE机器人与仿生学国际会议（IEEE International Conference on Robotics and Biomimetics, ROBIO）录用为**口头报告（Oral Presentation）**（第二作者）。
 
@@ -42,6 +44,8 @@ Specifically, my current research work includes:
 3. 《CNLaw-Bench: Constructing a Chinese Legal LLM Benchmark for Fine-grained Statute-level Evaluation》
 4. 《AutoRouter: Fine-grained Evaluation-Based Model Selection for Domain-Specific Applications with Case Study in Legal Domain》
 5. 《Ant-King Algorithm: A Self-assembly and Coordinated Control Framework for Modular Robots in Dynamic Tasks》
+6. 《CyberSecLLM: A Multi-Agent Mixture-of-Experts Framework for Large-Scale Cybersecurity Situational Awareness with Structured Data Intelligence》
+7. 《Research on Spatial Intelligence Large Model Fusion and Compression Technology for 3D Point Cloud Processing》
 
 On October 1, 2025, my first formal paper *Modular Integrated Optimization of SSVEP for UGV Control* was accepted by the IEEE International Conference on Robotics and Biomimetics (ROBIO) as an **Oral Presentation** (second author).
 
