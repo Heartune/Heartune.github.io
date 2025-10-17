@@ -16,7 +16,7 @@ redirect_from:
 具体地说，我目前正在研究的工作有：
 
 1. 《GAPartNet++: 基于深度学习的部件6D位姿估计框架》
-2. 《ROBO-Bench：具身化前大型语言模型机器人学基础基准测试》
+2. 《ROBO-Bench: Benchmarking Large Language Models on Robotics Fundamentals Before Embodiment》
 3. 《CNLaw-Bench：面向细分法典评估的中国法律大模型基准构建研究》
 4. 《AutoRouter：面向特定领域应用的基于细粒度基准评估的模型选择》
 5. 《Ant-King Algorithm：面向动态任务的模块化机器人自组装与协同控制框架》
