@@ -16,7 +16,7 @@ redirect_from:
 具体地说，我目前正在研究的工作有：
 
 1. 《GAPartNet++: 基于深度学习的部件6D位姿估计框架》
-2. 《ROBO-Bench：面向机器人学科精通度的大型语言模型综合基准》
+2. 《ROBO-Bench：具身化前大型语言模型机器人学基础基准测试》
 3. 《CNLaw-Bench：面向细分法典评估的中国法律大模型基准构建研究》
 4. 《AutoRouter：面向特定领域应用的基于细粒度基准评估的模型选择》
 5. 《Ant-King Algorithm：面向动态任务的模块化机器人自组装与协同控制框架》
@@ -40,7 +40,7 @@ I am very fortunate to be advised by [Associate Professor Zhang Shiyu](https://t
 Specifically, my current research work includes:
 
 1. 《GAPartNet++: A Deep Learning-based Framework for Part 6D Pose Estimation》
-2. 《ROBO-Bench: A Comprehensive Benchmark for Large Language Models in Robotics Proficiency》
+2. 《ROBO-Bench: Benchmarking Large Language Models on Robotics Fundamentals Before Embodiment》
 3. 《CNLaw-Bench: Constructing a Chinese Legal LLM Benchmark for Fine-grained Statute-level Evaluation》
 4. 《AutoRouter: Fine-grained Evaluation-Based Model Selection for Domain-Specific Applications with Case Study in Legal Domain》
 5. 《Ant-King Algorithm: A Self-assembly and Coordinated Control Framework for Modular Robots in Dynamic Tasks》
