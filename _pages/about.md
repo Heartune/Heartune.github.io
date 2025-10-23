@@ -23,7 +23,7 @@ redirect_from:
 6. 《CyberSecLLM: 基于多智能体混合专家的大规模网络安全态势感知与结构化数据智能框架》
 7. 《面向3D点云处理的空间智能大模型融合及压缩技术研究》
 
-2025年10月1日，我的第一篇正式论文《Modular Integrated Optimization of SSVEP for UGV Control》被IEEE机器人与仿生学国际会议（IEEE International Conference on Robotics and Biomimetics, ROBIO, h5-index=16）录用为**口头报告（Oral Presentation）**（第二作者）。
+2025年10月1日，我的第一篇正式论文《Modular Integrated Optimization of SSVEP for UGV Control》被IEEE机器人与仿生学国际会议（IEEE International Conference on Robotics and Biomimetics, ROBIO, h5-index=16）录用为**口头报告（Oral Presentation）**（共同一作）。
 
 如果您对我的工作感兴趣，有意愿提供指导或帮助，或希望与我共同开展相关研究，请通过[邮件](mailto:xtc_heartune@bupt.edu.cn)或[微信](../images/WeChat.jpg)联系我。
 
@@ -47,7 +47,7 @@ Specifically, my current research work includes:
 6. 《CyberSecLLM: A Multi-Agent Mixture-of-Experts Framework for Large-Scale Cybersecurity Situational Awareness with Structured Data Intelligence》
 7. 《Research on Spatial Intelligence Large Model Fusion and Compression Technology for 3D Point Cloud Processing》
 
-On October 1, 2025, my first formal paper *Modular Integrated Optimization of SSVEP for UGV Control* was accepted by the IEEE International Conference on Robotics and Biomimetics (ROBIO, h5-index=16) as an **Oral Presentation** (second author).
+On October 1, 2025, my first formal paper *Modular Integrated Optimization of SSVEP for UGV Control* was accepted by the IEEE International Conference on Robotics and Biomimetics (ROBIO, h5-index=16) as an **Oral Presentation** (co-first author).
 
 If you are interested in my work, willing to provide guidance or assistance, or would like to collaborate with me on related research, please contact me via [email](mailto:xtc_heartune@bupt.edu.cn) or [WeChat](../images/WeChat.jpg).
 
