@@ -13,18 +13,19 @@ redirect_from:
 
 我很幸运地得到了北京邮电大学[智能工程与自动化学院](https://iea.bupt.edu.cn/)[空间机器人教育部重点实验室](https://baike.baidu.com/item/%E7%A9%BA%E9%97%B4%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8A%80%E6%9C%AF%E6%95%99%E8%82%B2%E9%83%A8%E5%B7%A5%E7%A8%8B%E7%A0%94%E7%A9%B6%E4%B8%AD%E5%BF%83%EF%BC%88%E5%8C%97%E4%BA%AC%E9%82%AE%E7%94%B5%E5%A4%A7%E5%AD%A6%EF%BC%89/20793572)的[张时毓副教授](https://teacher.bupt.edu.cn/zhangshiyu/zh_CN/index.htm)在模块化机器人领域的指导，以及合肥工业大学[计算机与信息学院](https://ci.hfut.edu.cn/)的[刘浏副教授](https://hfut-liuliu.com/)在物体6D位姿估计领域的指导。
 
-具体地说，我目前正在进行的研究工作包括以下论文（计划于2026年1月前投稿）：
+具体地说，我目前正在进行的研究工作包括以下论文：
 
-1. 《GAPartNet++: A Deep Learning-based Framework for Part 6D Pose Estimation》
-2. 《ROBO-Bench: Benchmarking Large Language Models on Robotics Fundamentals Before Embodiment》
-3. 《CNLaw-Bench: Constructing a Chinese Legal LLM Benchmark for Fine-grained Statute-level Evaluation》
-4. 《CyberSecLLM: A Multi-Agent Mixture-of-Experts Framework for Large-Scale Cybersecurity Situational Awareness with Structured Data Intelligence》
+1. 《GAPartNet++: A Deep Learning-based Framework for Part 6D Pose Estimation》——研究机器人感知中的物体部件级6D位姿估计，目标投稿至多媒体领域顶级会议IEEE ICME 2025
+2. 《ROBO-Bench: Benchmarking Large Language Models on Robotics Fundamentals Before Embodiment》——构建机器人领域首个面向理论基础的大语言模型基准数据集，目标投稿至机器人领域TOP期刊IEEE Robotics and Automation Letters (RA-L)
+3. 《CNLaw-Bench: Constructing a Chinese Legal LLM Benchmark for Fine-grained Statute-level Evaluation》——构建面向中国细分法律条文的大语言模型基准数据集，目标投稿至人工智能顶级会议AAAI 2026
+4. 《CyberSecLLM: A Multi-Agent Mixture-of-Experts Framework for Large-Scale Cybersecurity Situational Awareness with Structured Data Intelligence》——研究面向多源异构网络安全数据的多智能体混合专家大模型框架，目标年底投稿至Nature子刊Nature Communications
+5. 与清华大学公共卫生与健康学院合作开展医疗大模型方向研究，目标年底投稿至Nature/Science（具体方向因合作保密协议暂不便透露）
 
 此外，以下是我感兴趣的潜在研究方向，我已经验证了这些方向的可行性。
 
-5. 《AutoRouter: Fine-grained Evaluation-Based Model Selection for Domain-Specific Applications with Case Study in Legal Domain》
-6. 《Ant-King Algorithm: A Self-assembly and Coordinated Control Framework for Modular Robots in Dynamic Tasks》
-7. 《Research on Spatial Intelligence Large Model Fusion and Compression Technology for 3D Point Cloud Processing》
+6. 《AutoRouter: Fine-grained Evaluation-Based Model Selection for Domain-Specific Applications with Case Study in Legal Domain》
+7. 《Ant-King Algorithm: A Self-assembly and Coordinated Control Framework for Modular Robots in Dynamic Tasks》
+8. 《Research on Spatial Intelligence Large Model Fusion and Compression Technology for 3D Point Cloud Processing》
 
 2025年10月1日，我的第一篇正式论文《Modular Integrated Optimization of SSVEP for UGV Control》被IEEE机器人与仿生学国际会议（IEEE International Conference on Robotics and Biomimetics, ROBIO, h5-index=16）录用（共同一作）。
 
@@ -40,18 +41,19 @@ I serve as Deputy Director of the Science and Technology Innovation Practice Dep
 
 I am very fortunate to be advised by [Associate Professor Zhang Shiyu](https://teacher.bupt.edu.cn/zhangshiyu/zh_CN/index.htm) from the [Key Laboratory of Space Robotics Technology, Ministry of Education](https://baike.baidu.com/item/%E7%A9%BA%E9%97%B4%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8A%80%E6%9C%AF%E6%95%99%E8%82%B2%E9%83%A8%E5%B7%A5%E7%A8%8B%E7%A0%94%E7%A9%B6%E4%B8%AD%E5%BF%83%EF%BC%88%E5%8C%97%E4%BA%AC%E9%82%AE%E7%94%B5%E5%A4%A7%E5%AD%A6%EF%BC%89/20793572), [School of Intelligent Engineering and Automation](https://iea.bupt.edu.cn/), [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/) in the field of modular robotics, and by [Associate Professor Liu Liu](https://hfut-liuliu.com/) from the [School of Computer and Information](https://ci.hfut.edu.cn/), [Hefei University of Technology](https://www.hfut.edu.cn/) in the field of 6D object pose estimation.
 
-Specifically, my current ongoing research work includes the following papers (planned for submission before January 2026):
+Specifically, my current ongoing research work includes the following papers:
 
-1. 《GAPartNet++: A Deep Learning-based Framework for Part 6D Pose Estimation》
-2. 《ROBO-Bench: Benchmarking Large Language Models on Robotics Fundamentals Before Embodiment》
-3. 《CNLaw-Bench: Constructing a Chinese Legal LLM Benchmark for Fine-grained Statute-level Evaluation》
-4. 《CyberSecLLM: A Multi-Agent Mixture-of-Experts Framework for Large-Scale Cybersecurity Situational Awareness with Structured Data Intelligence》
+1. *GAPartNet++: A Deep Learning-based Framework for Part 6D Pose Estimation* — Investigating part-level 6D pose estimation for robotic perception, targeting IEEE ICME 2025 (top-tier multimedia conference)
+2. *ROBO-Bench: Benchmarking Large Language Models on Robotics Fundamentals Before Embodiment* — Building the first theoretical foundation benchmark for Large Language Models in robotics, targeting IEEE Robotics and Automation Letters (RA-L, top-tier robotics journal)
+3. *CNLaw-Bench: Constructing a Chinese Legal LLM Benchmark for Fine-grained Statute-level Evaluation* — Constructing a benchmark dataset for Chinese statute-level legal evaluation, targeting AAAI 2026 (top-tier AI conference)
+4. *CyberSecLLM: A Multi-Agent Mixture-of-Experts Framework for Large-Scale Cybersecurity Situational Awareness with Structured Data Intelligence* — Developing a multi-agent mixture-of-experts framework for heterogeneous cybersecurity data, targeting Nature Communications by year-end
+5. Collaborating with the School of Public Health and Health Sciences at Tsinghua University on medical large language model research, targeting Nature/Science by year-end (specific direction under NDA)
 
 Additionally, the following are potential research directions I am interested in, and I have verified the feasibility of these directions.
 
-5. 《AutoRouter: Fine-grained Evaluation-Based Model Selection for Domain-Specific Applications with Case Study in Legal Domain》
-6. 《Ant-King Algorithm: A Self-assembly and Coordinated Control Framework for Modular Robots in Dynamic Tasks》
-7. 《Research on Spatial Intelligence Large Model Fusion and Compression Technology for 3D Point Cloud Processing》
+6. *AutoRouter: Fine-grained Evaluation-Based Model Selection for Domain-Specific Applications with Case Study in Legal Domain*
+7. *Ant-King Algorithm: A Self-assembly and Coordinated Control Framework for Modular Robots in Dynamic Tasks*
+8. *Research on Spatial Intelligence Large Model Fusion and Compression Technology for 3D Point Cloud Processing*
 
 On October 1, 2025, my first formal paper *Modular Integrated Optimization of SSVEP for UGV Control* was accepted by the IEEE International Conference on Robotics and Biomimetics (ROBIO, h5-index=16) (co-first author).
 
