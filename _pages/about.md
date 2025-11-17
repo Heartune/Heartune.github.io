@@ -19,7 +19,6 @@ redirect_from:
 2. 《ROBO-Bench: Benchmarking Large Language Models on Robotics Fundamentals Before Embodiment》——构建机器人领域首个面向理论基础的大语言模型基准数据集，目标投稿至机器人领域TOP期刊IEEE Robotics and Automation Letters (RA-L)
 3. 《CNLaw-Bench: Constructing a Chinese Legal LLM Benchmark for Fine-grained Statute-level Evaluation》——构建面向中国细分法律条文的大语言模型基准数据集，目标投稿至人工智能顶级会议AAAI 2026
 4. 《CyberSecLLM: A Multi-Agent Mixture-of-Experts Framework for Large-Scale Cybersecurity Situational Awareness with Structured Data Intelligence》——研究面向多源异构网络安全数据的多智能体混合专家大模型框架，目标年底投稿至Nature子刊Nature Communications
-5. 与清华大学公共卫生与健康学院合作开展医疗大模型方向研究，目标年底投稿至Nature/Science（具体方向因合作保密协议暂不便透露）
 
 此外，以下是我感兴趣的潜在研究方向，我已经验证了这些方向的可行性。
 
@@ -49,7 +48,6 @@ Specifically, my current ongoing research work includes the following papers:
 2. *ROBO-Bench: Benchmarking Large Language Models on Robotics Fundamentals Before Embodiment* — Building the first theoretical foundation benchmark for Large Language Models in robotics, targeting IEEE Robotics and Automation Letters (RA-L, top-tier robotics journal)
 3. *CNLaw-Bench: Constructing a Chinese Legal LLM Benchmark for Fine-grained Statute-level Evaluation* — Constructing a benchmark dataset for Chinese statute-level legal evaluation, targeting AAAI 2026 (top-tier AI conference)
 4. *CyberSecLLM: A Multi-Agent Mixture-of-Experts Framework for Large-Scale Cybersecurity Situational Awareness with Structured Data Intelligence* — Developing a multi-agent mixture-of-experts framework for heterogeneous cybersecurity data, targeting Nature Communications by year-end
-5. Collaborating with the School of Public Health and Health Sciences at Tsinghua University on medical large language model research, targeting Nature/Science by year-end (specific direction under NDA)
 
 Additionally, the following are potential research directions I am interested in, and I have verified the feasibility of these directions.
 
