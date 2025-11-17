@@ -27,6 +27,8 @@ redirect_from:
 7. 《Ant-King Algorithm: A Self-assembly and Coordinated Control Framework for Modular Robots in Dynamic Tasks》
 8. 《Research on Spatial Intelligence Large Model Fusion and Compression Technology for 3D Point Cloud Processing》
 
+2025年9月，我的两项国家发明专利通过初审，分别为《一种基于多机械臂协同的模块化机器人组装与修复系统》（第一发明人）和《一种面向地外行星的模块化机器人自生产系统》（第二发明人）。
+
 2025年10月1日，我的第一篇正式论文《Modular Integrated Optimization of SSVEP for UGV Control》被IEEE机器人与仿生学国际会议（IEEE International Conference on Robotics and Biomimetics, ROBIO, h5-index=16）录用（共同一作）。
 
 如果您对我的工作感兴趣，有意愿提供指导或帮助，或希望与我共同开展相关研究，请通过[邮件](mailto:xtc_heartune@bupt.edu.cn)或[微信](../images/WeChat.jpg)联系我。
@@ -54,6 +56,8 @@ Additionally, the following are potential research directions I am interested in
 6. *AutoRouter: Fine-grained Evaluation-Based Model Selection for Domain-Specific Applications with Case Study in Legal Domain*
 7. *Ant-King Algorithm: A Self-assembly and Coordinated Control Framework for Modular Robots in Dynamic Tasks*
 8. *Research on Spatial Intelligence Large Model Fusion and Compression Technology for 3D Point Cloud Processing*
+
+In September 2025, two of my national invention patents passed preliminary review: *A Modular Robot Assembly and Repair System Based on Multi-Manipulator Coordination* (first inventor) and *A Self-Production System for Modular Robots on Extraterrestrial Planets* (second inventor).
 
 On October 1, 2025, my first formal paper *Modular Integrated Optimization of SSVEP for UGV Control* was accepted by the IEEE International Conference on Robotics and Biomimetics (ROBIO, h5-index=16) (co-first author).
 
