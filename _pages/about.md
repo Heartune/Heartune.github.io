@@ -15,10 +15,12 @@ redirect_from:
 
 具体地说，我目前正在进行的研究工作包括以下论文：
 
-1. 《GAPartNet++: A Deep Learning-based Framework for Part 6D Pose Estimation》——研究机器人感知中的物体部件级6D位姿估计，目标投稿至多媒体领域顶级会议IEEE ICME 2025
-2. 《ROBO-Bench: Benchmarking Large Language Models on Robotics Fundamentals Before Embodiment》——构建机器人领域首个面向理论基础的大语言模型基准数据集，目标投稿至机器人领域TOP期刊IEEE Robotics and Automation Letters (RA-L)
-3. 《CNLaw-Bench: Constructing a Chinese Legal LLM Benchmark for Fine-grained Statute-level Evaluation》——构建面向中国细分法律条文的大语言模型基准数据集，目标投稿至人工智能顶级会议AAAI 2026
-4. 《CyberSecLLM: A Multi-Agent Mixture-of-Experts Framework for Large-Scale Cybersecurity Situational Awareness with Structured Data Intelligence》——研究面向多源异构网络安全数据的多智能体混合专家大模型框架，目标年底投稿至Nature子刊Nature Communications
+1. 《GAPartNet++: A Deep Learning-based Framework for Part 6D Pose Estimation》——研究机器人感知中的物体部件级6D位姿估计，目标投稿至多媒体领域顶级会议IEEE ICME 2026（第一作者，论文已基本完成，即将投稿）
+2. 《ROBO-Bench: Benchmarking Large Language Models on Robotics Fundamentals Before Embodiment》——构建机器人领域首个面向理论基础的大语言模型基准数据集，目标投稿至机器人领域TOP期刊IEEE Robotics and Automation Letters (RA-L)（第一作者，已拟定论文提纲，预计2026年1月初完成）
+3. 《CNLaw-Bench: Constructing a Chinese Legal LLM Benchmark for Fine-grained Statute-level Evaluation》——构建面向中国细分法律条文的大语言模型基准数据集，目标投稿至人工智能顶级会议AAAI 2026（第一作者，已完成数据收集，正在进行数据清洗）
+4. 《CyberSecLLM: A Multi-Agent Mixture-of-Experts Framework for Large-Scale Cybersecurity Situational Awareness with Structured Data Intelligence》——研究面向多源异构网络安全数据的多智能体混合专家大模型框架，目标年底投稿至Nature子刊Nature Communications（第三/四作者，正在同步推进评估和论文工作，预计2025年12月底完成）
+
+此外，我还与清华大学公共卫生与健康学院合作开展心脑血管医疗大模型方向的研究项目，负责数据收集、数据清洗与Agentic RAG的代码构建工作，目标年底投稿至Nature/Science（具体内容暂不便透露）。
 
 此外，以下是我感兴趣的潜在研究方向，我已经验证了这些方向的可行性。
 
@@ -44,10 +46,12 @@ I am very fortunate to be advised by [Associate Professor Zhang Shiyu](https://t
 
 Specifically, my current ongoing research work includes the following papers:
 
-1. *GAPartNet++: A Deep Learning-based Framework for Part 6D Pose Estimation* — Investigating part-level 6D pose estimation for robotic perception, targeting IEEE ICME 2025 (top-tier multimedia conference)
-2. *ROBO-Bench: Benchmarking Large Language Models on Robotics Fundamentals Before Embodiment* — Building the first theoretical foundation benchmark for Large Language Models in robotics, targeting IEEE Robotics and Automation Letters (RA-L, top-tier robotics journal)
-3. *CNLaw-Bench: Constructing a Chinese Legal LLM Benchmark for Fine-grained Statute-level Evaluation* — Constructing a benchmark dataset for Chinese statute-level legal evaluation, targeting AAAI 2026 (top-tier AI conference)
-4. *CyberSecLLM: A Multi-Agent Mixture-of-Experts Framework for Large-Scale Cybersecurity Situational Awareness with Structured Data Intelligence* — Developing a multi-agent mixture-of-experts framework for heterogeneous cybersecurity data, targeting Nature Communications by year-end
+1. *GAPartNet++: A Deep Learning-based Framework for Part 6D Pose Estimation* — Investigating part-level 6D pose estimation for robotic perception, targeting IEEE ICME 2026 (top-tier multimedia conference) (First author, paper nearly completed, submission imminent)
+2. *ROBO-Bench: Benchmarking Large Language Models on Robotics Fundamentals Before Embodiment* — Building the first theoretical foundation benchmark for Large Language Models in robotics, targeting IEEE Robotics and Automation Letters (RA-L, top-tier robotics journal) (First author, paper outline completed, expected completion in early January 2026)
+3. *CNLaw-Bench: Constructing a Chinese Legal LLM Benchmark for Fine-grained Statute-level Evaluation* — Constructing a benchmark dataset for Chinese statute-level legal evaluation, targeting AAAI 2026 (top-tier AI conference) (First author, data collection completed, currently performing data cleaning)
+4. *CyberSecLLM: A Multi-Agent Mixture-of-Experts Framework for Large-Scale Cybersecurity Situational Awareness with Structured Data Intelligence* — Developing a multi-agent mixture-of-experts framework for heterogeneous cybersecurity data, targeting Nature Communications by year-end (Third/Fourth author, currently advancing evaluation and paper work in parallel, expected completion by end of December 2025)
+
+Additionally, I am collaborating with the School of Public Health, Tsinghua University on cardiovascular and cerebrovascular medical large language model research, responsible for data collection, data cleaning, and Agentic RAG code implementation, targeting Nature/Science submission by year-end (specific details remain confidential).
 
 Additionally, the following are potential research directions I am interested in, and I have verified the feasibility of these directions.
 
