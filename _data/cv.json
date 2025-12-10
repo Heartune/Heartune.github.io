@@ -115,14 +115,14 @@
   "publications": [
     {
       "name": "GAPartNet++: A Deep Learning-based Framework for Part 6D Pose Estimation",
-      "publisher": "Target: IEEE ICME 2026",
+      "publisher": "Target: IEEE ICIP 2026 (CCF-B conference)",
       "releaseDate": "In Progress",
       "website": "",
       "summary": "First Author, paper nearly completed, submission imminent. Focus: Part-level 6D pose estimation for robotic perception."
     },
     {
       "name": "ROBO-Bench: Benchmarking Large Language Models on Robotics Fundamentals Before Embodiment",
-      "publisher": "Target: IEEE Robotics and Automation Letters (RA-L)",
+      "publisher": "Target: IEEE/RSJ IROS 2026 (top-tier robotics conference, March 2026)",
       "releaseDate": "In Progress",
       "website": "",
       "summary": "First Author, paper outline completed, expected completion in early January 2026. Focus: First theoretical foundation benchmark for LLMs in robotics."
@@ -139,7 +139,7 @@
       "publisher": "Target: Nature Communications",
       "releaseDate": "In Progress",
       "website": "",
-      "summary": "Third/Fourth Author, currently advancing evaluation and paper work in parallel, expected completion by end of December 2025. Focus: Multi-agent mixture-of-experts framework for heterogeneous cybersecurity data."
+      "summary": "Third Author, currently advancing evaluation and paper work in parallel, expected completion by end of December 2025. Focus: Multi-agent mixture-of-experts framework for heterogeneous cybersecurity data."
     },
     {
       "name": "Cardiovascular and Cerebrovascular Medical Large Language Model Research",

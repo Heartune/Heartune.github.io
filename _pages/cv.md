@@ -27,12 +27,12 @@ Research Papers (In Progress)
 ======
 * **GAPartNet++: A Deep Learning-based Framework for Part 6D Pose Estimation**
   * First Author, paper nearly completed, submission imminent
-  * Target: IEEE ICME 2026 (top-tier multimedia conference)
+  * Target: IEEE ICIP 2026 (CCF-B conference)
   * Focus: Part-level 6D pose estimation for robotic perception
 
 * **ROBO-Bench: Benchmarking Large Language Models on Robotics Fundamentals Before Embodiment**
   * First Author, paper outline completed, expected completion in early January 2026
-  * Target: IEEE Robotics and Automation Letters (RA-L, top-tier robotics journal)
+  * Target: IEEE/RSJ IROS 2026 (top-tier robotics conference, March 2026)
   * Focus: First theoretical foundation benchmark for LLMs in robotics
 
 * **CNLaw-Bench: Constructing a Chinese Legal LLM Benchmark for Fine-grained Statute-level Evaluation**
@@ -41,7 +41,7 @@ Research Papers (In Progress)
   * Focus: Benchmark dataset for Chinese statute-level legal evaluation
 
 * **CyberSecLLM: A Multi-Agent Mixture-of-Experts Framework for Large-Scale Cybersecurity Situational Awareness**
-  * Third/Fourth Author, currently advancing evaluation and paper work in parallel
+  * Third Author, currently advancing evaluation and paper work in parallel
   * Target: Nature Communications, expected completion by end of December 2025
   * Focus: Multi-agent mixture-of-experts framework for heterogeneous cybersecurity data
 
