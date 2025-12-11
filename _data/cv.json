@@ -4,7 +4,7 @@
     "email": "xtc_heartune@bupt.edu.cn",
     "phone": "",
     "website": "https://heartune.github.io",
-    "summary": "Third-year undergraduate student in Software Engineering at Beijing University of Posts and Telecommunications. Research interests include embodied intelligence, world models, VLA, LLM fine-tuning and evaluation, 6D object pose estimation, modular robotics, and multi-robot coordination.",
+    "summary": "Third-year undergraduate student in Software Engineering at Beijing University of Posts and Telecommunications. Research interests are broad, focusing on embodied intelligence and large language models, with emphasis on multi-agent coordination, multi-robot coordination, and modular robotics.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -104,10 +104,10 @@
   "interests": [
     {
       "name": "Embodied Intelligence",
-      "keywords": ["World Models", "VLA", "6D Object Pose Estimation", "Modular Robotics", "Multi-Robot Coordination"]
+      "keywords": ["Multi-Agent Coordination", "Multi-Robot Coordination", "Modular Robotics"]
     },
     {
-      "name": "Natural Language Processing",
+      "name": "Large Language Models",
       "keywords": ["LLM Fine-tuning", "LLM Evaluation", "Benchmark Construction"]
     }
   ],
@@ -136,10 +136,10 @@
     },
     {
       "name": "CyberSecLLM: A Multi-Agent Mixture-of-Experts Framework for Large-Scale Cybersecurity Situational Awareness with Structured Data Intelligence",
-      "publisher": "Target: Nature Communications",
+      "publisher": "Submitted to Nature Communications",
       "releaseDate": "In Progress",
       "website": "",
-      "summary": "Third Author, currently advancing evaluation and paper work in parallel, expected completion by end of December 2025. Focus: Multi-agent mixture-of-experts framework for heterogeneous cybersecurity data."
+      "summary": "Third Author. Focus: Multi-agent mixture-of-experts framework for heterogeneous cybersecurity data."
     },
     {
       "name": "Cardiovascular and Cerebrovascular Medical Large Language Model Research",
@@ -209,8 +209,8 @@
   ],
   "service": [
     {
-      "organization": "Computer Science School Youth League Committee",
-      "position": "Deputy Director, Science and Technology Innovation Practice Department",
+      "organization": "Computer Science School",
+      "position": "Director, Industry-Research Department",
       "startDate": "",
       "endDate": "",
       "summary": ""

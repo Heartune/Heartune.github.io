@@ -19,9 +19,9 @@ Education
 
 Research Interests
 ======
-* Embodied Intelligence: World Models, Vision-Language-Action Models (VLA), 6D Object Pose Estimation, Modular Robotics, Multi-Robot Coordination
-* Natural Language Processing: LLM Fine-tuning and Evaluation, Benchmark Construction
-* Interdisciplinary Frontiers of Embodied Intelligence and Natural Language Processing
+* Embodied Intelligence: Multi-Agent Coordination, Multi-Robot Coordination, Modular Robotics
+* Large Language Models: LLM Fine-tuning and Evaluation, Benchmark Construction
+* Interdisciplinary Frontiers of Embodied Intelligence and Large Language Models
 
 Research Papers (In Progress)
 ======
@@ -41,8 +41,8 @@ Research Papers (In Progress)
   * Focus: Benchmark dataset for Chinese statute-level legal evaluation
 
 * **CyberSecLLM: A Multi-Agent Mixture-of-Experts Framework for Large-Scale Cybersecurity Situational Awareness**
-  * Third Author, currently advancing evaluation and paper work in parallel
-  * Target: Nature Communications, expected completion by end of December 2025
+  * Third Author
+  * Submitted to Nature Communications
   * Focus: Multi-agent mixture-of-experts framework for heterogeneous cybersecurity data
 
 * **Cardiovascular and Cerebrovascular Medical Large Language Model Research** (in collaboration with School of Public Health, Tsinghua University)
@@ -131,7 +131,7 @@ Teaching
 
 Service and Leadership
 ======
-* Deputy Director, Science and Technology Innovation Practice Department, Computer Science School Youth League Committee
+* Director, Industry-Research Department, Computer Science School
 * League Branch Secretary
 * Class Monitor
 * Core Member, BUPT Blueprint and other research-oriented organizations
