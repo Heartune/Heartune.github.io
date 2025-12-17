@@ -1,0 +1,240 @@
+{
+  "basics": {
+    "name": "Your Name",
+    "email": "xtc_heartune@bupt.edu.cn",
+    "phone": "",
+    "website": "https://heartune.github.io",
+    "summary": "Third-year undergraduate student in Software Engineering at Beijing University of Posts and Telecommunications. Research interests are broad, focusing on embodied intelligence and large language models, with emphasis on multi-agent coordination, multi-robot coordination, and modular robotics.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Beijing",
+      "countryCode": "CN",
+      "region": "Beijing"
+    },
+    "profiles": [
+      {
+        "network": "Google Scholar",
+        "username": "",
+        "url": ""
+      },
+      {
+        "network": "GitHub",
+        "username": "Heartune",
+        "url": "https://github.com/Heartune"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Hefei Xingbei Aviation Survey Information Technology Co., Ltd.",
+      "position": "Computer Vision Intern",
+      "website": "http://www.navmonitor.com/",
+      "startDate": "2024-06",
+      "endDate": "2024-08",
+      "summary": "Participated in computer vision projects including infrared imaging and transmission line object recognition",
+      "highlights": []
+    },
+    {
+      "company": "Beijing Changping District Government",
+      "position": "Project Leader",
+      "website": "",
+      "startDate": "2023",
+      "endDate": "Present",
+      "summary": "Shahe University Park Smart Guide System Development, serving over 300,000 people annually",
+      "highlights": []
+    },
+    {
+      "company": "Guizhou Changshun County Science and Technology Poverty Alleviation Program",
+      "position": "Algorithm Developer",
+      "website": "",
+      "startDate": "2023",
+      "endDate": "2023",
+      "summary": "Responsible for rice disease and pest identification algorithms",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Beijing University of Posts and Telecommunications",
+      "area": "Software Engineering",
+      "studyType": "B.S.",
+      "startDate": "2022",
+      "endDate": "2026 (expected)",
+      "gpa": null,
+      "courses": [
+        "Member of Ye Peida Innovation and Entrepreneurship Education Experimental Class",
+        "Major Ranking: 5/151 (expected final ranking: 3/151 with competition and research bonuses)",
+        "CET-4: 629, CET-6: 619"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "Advanced",
+      "keywords": ["Python", "C++", "Java", "JavaScript"]
+    },
+    {
+      "name": "Machine Learning & Deep Learning",
+      "level": "Advanced",
+      "keywords": ["PyTorch", "TensorFlow", "Computer Vision", "Natural Language Processing", "LLM Fine-tuning"]
+    },
+    {
+      "name": "Robotics",
+      "level": "Intermediate",
+      "keywords": ["ROS", "Gazebo", "Modular Robotics", "Multi-Robot Coordination"]
+    },
+    {
+      "name": "Data Science",
+      "level": "Advanced",
+      "keywords": ["Data Collection", "Data Cleaning", "Data Analysis"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Chinese",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional working proficiency (CET-4: 629, CET-6: 619)"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Embodied Intelligence",
+      "keywords": ["Multi-Agent Coordination", "Multi-Robot Coordination", "Modular Robotics"]
+    },
+    {
+      "name": "Large Language Models",
+      "keywords": ["LLM Fine-tuning", "LLM Evaluation", "Benchmark Construction"]
+    }
+  ],
+  "references": [],
+  "publications": [
+    {
+      "name": "GAPartNet++: A Deep Learning-based Framework for Part 6D Pose Estimation",
+      "publisher": "Target: IEEE ICIP 2026 (CCF-B conference)",
+      "releaseDate": "In Progress",
+      "website": "",
+      "summary": "First Author, paper nearly completed, submission imminent. Focus: Part-level 6D pose estimation for robotic perception."
+    },
+    {
+      "name": "ROBO-Bench: Benchmarking Large Language Models on Robotics Fundamentals Before Embodiment",
+      "publisher": "Target: IEEE/RSJ IROS 2026 (top-tier robotics conference, March 2026)",
+      "releaseDate": "In Progress",
+      "website": "",
+      "summary": "First Author, paper outline completed, expected completion in early January 2026. Focus: First theoretical foundation benchmark for LLMs in robotics."
+    },
+    {
+      "name": "CNLaw-Bench: Constructing a Chinese Legal LLM Benchmark for Fine-grained Statute-level Evaluation",
+      "publisher": "Target: AAAI 2026",
+      "releaseDate": "In Progress",
+      "website": "",
+      "summary": "First Author, data collection completed, currently performing data cleaning. Focus: Benchmark dataset for Chinese statute-level legal evaluation."
+    },
+    {
+      "name": "CyberSecLLM: A Multi-Agent Mixture-of-Experts Framework for Large-Scale Cybersecurity Situational Awareness with Structured Data Intelligence",
+      "publisher": "Submitted to Nature Communications",
+      "releaseDate": "In Progress",
+      "website": "",
+      "summary": "Third Author. Focus: Multi-agent mixture-of-experts framework for heterogeneous cybersecurity data."
+    },
+    {
+      "name": "Cardiovascular and Cerebrovascular Medical Large Language Model Research",
+      "publisher": "Target: Nature/Science (in collaboration with School of Public Health, Tsinghua University)",
+      "releaseDate": "In Progress",
+      "website": "",
+      "summary": "Responsible for data collection, data cleaning, and Agentic RAG code implementation. Details remain confidential."
+    },
+    {
+      "name": "Modular Integrated Optimization of SSVEP for UGV Control",
+      "publisher": "IEEE International Conference on Robotics and Biomimetics (ROBIO)",
+      "releaseDate": "2025-10-01",
+      "website": "",
+      "summary": "Co-First Author. Accepted by ROBIO (h5-index=16)."
+    }
+  ],
+  "presentations": [],
+  "teaching": [],
+  "portfolio": [],
+  "awards": [
+    {
+      "title": "National Second Prize, 26th China Robot and Artificial Intelligence Competition",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "Over ten national and provincial competition awards",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "patents": [
+    {
+      "title": "A Modular Robot Assembly and Repair System Based on Multi-Manipulator Coordination",
+      "inventor": "First Inventor",
+      "date": "2025-09",
+      "status": "Passed preliminary review",
+      "type": "Chinese National Invention Patent"
+    },
+    {
+      "title": "A Self-Production System for Modular Robots on Extraterrestrial Planets",
+      "inventor": "Second Inventor",
+      "date": "2025-09",
+      "status": "Passed preliminary review",
+      "type": "Chinese National Invention Patent"
+    }
+  ],
+  "research_experience": [
+    {
+      "institution": "Key Laboratory of Space Robotics Technology, Ministry of Education, Beijing University of Posts and Telecommunications",
+      "position": "Research Assistant",
+      "advisor": "Associate Professor Zhang Shiyu",
+      "startDate": "2024",
+      "endDate": "Present",
+      "focus": "Modular Robotics"
+    },
+    {
+      "institution": "School of Computer and Information, Hefei University of Technology",
+      "position": "Research Assistant",
+      "advisor": "Associate Professor Liu Liu",
+      "startDate": "2024",
+      "endDate": "Present",
+      "focus": "6D Object Pose Estimation"
+    }
+  ],
+  "service": [
+    {
+      "organization": "Computer Science School",
+      "position": "Director, Industry-Research Department",
+      "startDate": "",
+      "endDate": "",
+      "summary": ""
+    },
+    {
+      "organization": "Class",
+      "position": "League Branch Secretary",
+      "startDate": "",
+      "endDate": "",
+      "summary": ""
+    },
+    {
+      "organization": "Class",
+      "position": "Class Monitor",
+      "startDate": "",
+      "endDate": "",
+      "summary": ""
+    },
+    {
+      "organization": "BUPT Blueprint and other research-oriented organizations",
+      "position": "Core Member",
+      "startDate": "",
+      "endDate": "",
+      "summary": ""
+    }
+  ]
+}
